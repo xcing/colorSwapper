@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: 1c1aab9eb905b5949bab47a53cc3cd8d
+timeCreated: 1440743270
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Intro_spritesheet (1)_0
+    21300002: Intro_spritesheet (1)_1
+    21300004: Intro_spritesheet (1)_2
+    21300006: Intro_spritesheet (1)_3
+    21300008: Intro_spritesheet (1)_4
+    21300010: Intro_spritesheet (1)_5
+    21300012: Intro_spritesheet (1)_6
+    21300014: Intro_spritesheet (1)_7
+    21300016: Intro_spritesheet (1)_8
+    21300018: Intro_spritesheet (1)_9
+    21300020: Intro_spritesheet (1)_10
+    21300022: Intro_spritesheet (1)_11
+    21300024: Intro_spritesheet (1)_12
+    21300026: Intro_spritesheet (1)_13
+    21300028: Intro_spritesheet (1)_14
+    21300030: Intro_spritesheet (1)_15
+    21300032: Intro_spritesheet (1)_16
+    21300034: Intro_spritesheet (1)_17
+    21300036: Intro_spritesheet (1)_18
+    21300038: Intro_spritesheet (1)_19
+    21300040: Intro_spritesheet (1)_20
+    21300042: Intro_spritesheet (1)_21
+    21300044: Intro_spritesheet (1)_22
+    21300046: Intro_spritesheet (1)_23
+    21300048: Intro_spritesheet (1)_24
+    21300050: Intro_spritesheet (1)_25
+    21300052: Intro_spritesheet (1)_26
+    21300054: Intro_spritesheet (1)_27
+    21300056: Intro_spritesheet (1)_28
+    21300058: Intro_spritesheet (1)_29
+    21300060: Intro_spritesheet (1)_30
+    21300062: Intro_spritesheet (1)_31
+    21300064: Intro_spritesheet (1)_32
+    21300066: Intro_spritesheet (1)_33
+    21300068: Intro_spritesheet (1)_34
+    21300070: Intro_spritesheet (1)_35
+    21300072: Intro_spritesheet (1)_36
+    21300074: Intro_spritesheet (1)_37
+    21300076: Intro_spritesheet (1)_38
+    21300078: Intro_spritesheet (1)_39
+    21300080: Intro_spritesheet (1)_40
+    21300082: Intro_spritesheet (1)_41
+    21300084: Intro_spritesheet (1)_42
+    21300086: Intro_spritesheet (1)_43
+    21300088: Intro_spritesheet (1)_44
+    21300090: Intro_spritesheet (1)_45
+    21300092: Intro_spritesheet (1)_46
+    21300094: Intro_spritesheet (1)_47
+    21300096: Intro_spritesheet (1)_48
+    21300098: Intro_spritesheet (1)_49
+    21300100: Intro_spritesheet (1)_50
+    21300102: Intro_spritesheet (1)_51
+    21300104: Intro_spritesheet (1)_52
+    21300106: Intro_spritesheet (1)_53
+    21300108: Intro_spritesheet (1)_54
+    21300110: Intro_spritesheet (1)_55
+    21300112: Intro_spritesheet (1)_56
+    21300114: Intro_spritesheet (1)_57
+    21300116: Intro_spritesheet (1)_58
+    21300118: Intro_spritesheet (1)_59
+    21300120: Intro_spritesheet (1)_60
+    21300122: Intro_spritesheet (1)_61
+    21300124: Intro_spritesheet (1)_62
+    21300126: Intro_spritesheet (1)_63
+    21300128: Intro_spritesheet (1)_64
+    21300130: Intro_spritesheet (1)_65
+    21300132: Intro_spritesheet (1)_66
+    21300134: Intro_spritesheet (1)_67
+    21300136: Intro_spritesheet (1)_68
+    21300138: Intro_spritesheet (1)_69
+    21300140: Intro_spritesheet (1)_70
+    21300142: Intro_spritesheet (1)_71
+    21300144: Intro_spritesheet (1)_72
+    21300146: Intro_spritesheet (1)_73
+    21300148: Intro_spritesheet (1)_74
+    21300150: Intro_spritesheet (1)_75
+    21300152: Intro_spritesheet (1)_76
+    21300154: Intro_spritesheet (1)_77
+    21300156: Intro_spritesheet (1)_78
+    21300158: Intro_spritesheet (1)_79
+    21300160: Intro_spritesheet (1)_80
+    21300162: Intro_spritesheet (1)_81
+    21300164: Intro_spritesheet (1)_82
+    21300166: Intro_spritesheet (1)_83
+    21300168: Intro_spritesheet (1)_84
+    21300170: Intro_spritesheet (1)_85
+    21300172: Intro_spritesheet (1)_86
+    21300174: Intro_spritesheet (1)_87
+    21300176: Intro_spritesheet (1)_88
+    21300178: Intro_spritesheet (1)_89
+    21300180: Intro_spritesheet (1)_90
+    21300182: Intro_spritesheet (1)_91
+    21300184: Intro_spritesheet (1)_92
+    21300186: Intro_spritesheet (1)_93
+    21300188: Intro_spritesheet (1)_94
+    21300190: Intro_spritesheet (1)_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Intro_spritesheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 6736
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 5774
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 4812
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_40
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_41
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_42
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_43
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_44
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_45
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_46
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_47
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 3850
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_49
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_52
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_53
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_54
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_55
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_56
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_57
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_58
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_59
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 2888
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_61
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_63
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_64
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_65
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_66
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_67
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_68
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_69
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_70
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_71
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 1926
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_73
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_74
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_75
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_76
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_77
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_78
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_79
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_80
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_81
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_82
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_83
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 964
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_85
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_86
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_88
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_89
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_90
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_91
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_92
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_93
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_94
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_spritesheet (1)_95
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 2
+        width: 542
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
